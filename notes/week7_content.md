@@ -1,5 +1,5 @@
 # Week 7 - Accessing registers 
- <CONTENTS> 
+ <CONTENTS> (new changes)
      
 - [x]  Types and memory manipulation
 - [x]  Interrupts
