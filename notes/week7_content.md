@@ -7,7 +7,7 @@
 
     
 ## Types and memory manipulation
-
+-example 
 ### Accessing registers
 
 - [ ] - We can use pointers to directly reference memory locations by address, and access their contents. This allows us to make use of memory-mapped IO
